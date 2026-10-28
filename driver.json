@@ -1,0 +1,58 @@
+{"drivers" :[
+    {
+        "userID" : "0001",
+        "departure" : "Maynooth University (Eolas)",
+        "destination" : "Mulingar Train Station",
+        "details" : {
+            "departure time" : "17:00",
+            "arrival" : "17:30",
+            "contrabutions" : {
+                "monetary" : "£6 split",
+                "other" : "good music recommendations"
+
+            }
+        },
+        "spaces" : "4",
+        "accesible" : true    
+    },
+    {
+        "userID" : "0002",
+        "departure" : "Mulingar Train Station",
+        "destination" : "DCU",
+        "details" : {
+            "departure time" : "07:00",
+            "arrival" : "08:00",
+            "contrabutions" : {
+                "monetary" : "£10 split"
+            }
+        },
+        "spaces" : "2",
+        "accesible" : false    
+    },
+    {
+        "userID" : "0003",
+        "departure" : "TUD Tallaght",
+        "destination" : "Blanchardstown",
+        "details" : {
+            "departure time" : "14:00",
+            "arrival" : "14:45"
+        },
+        "spaces" : "3",
+        "accesible" : true    
+    },
+    {
+        "userID" : "0004",
+        "departure" : "Maynooth University (Student Union)",
+        "destination" : "Coolmine",
+        "details" : {
+            "departure time" : "15:00",
+            "arrival" : "15:45",
+            "contrabutions" : {
+                "other" : "queit people"
+            }
+        },
+        "spaces" : "4",
+        "accesible" : false  
+    }
+
+]}
