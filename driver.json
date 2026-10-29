@@ -7,7 +7,7 @@
         "details" : {
             "departure time" : "17:00",
             "arrival" : "17:30",
-            "contrabutions" : {
+            "contributions" : {
                 "monetary" : "£6 split",
                 "other" : "good music recommendations"
 
@@ -24,7 +24,7 @@
         "details" : {
             "departure time" : "07:00",
             "arrival" : "08:00",
-            "contrabutions" : {
+            "contributions" : {
                 "monetary" : "£10 split"
             }
         },
@@ -51,7 +51,7 @@
         "details" : {
             "departure time" : "15:00",
             "arrival" : "15:45",
-            "contrabutions" : {
+            "contributions" : {
                 "other" : "queit people"
             }
         },
