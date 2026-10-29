@@ -1,6 +1,7 @@
 {"drivers" :[
     {
         "userID" : "0001",
+        "userName" : "John Doe",
         "departure" : "Maynooth University (Eolas)",
         "destination" : "Mulingar Train Station",
         "details" : {
@@ -17,6 +18,7 @@
     },
     {
         "userID" : "0002",
+        "userName" : "Jane Doe",
         "departure" : "Mulingar Train Station",
         "destination" : "DCU",
         "details" : {
@@ -31,6 +33,7 @@
     },
     {
         "userID" : "0003",
+        "userName" : "John Down",
         "departure" : "TUD Tallaght",
         "destination" : "Blanchardstown",
         "details" : {
@@ -42,6 +45,7 @@
     },
     {
         "userID" : "0004",
+        "userName" : "Jane Down",
         "departure" : "Maynooth University (Student Union)",
         "destination" : "Coolmine",
         "details" : {
